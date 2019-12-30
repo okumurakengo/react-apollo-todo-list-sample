@@ -6,7 +6,7 @@
 ## Install
 
 ```sh
-yarn install
+yarn
 ```
 
 ## Usage
